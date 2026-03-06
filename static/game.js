@@ -41,7 +41,7 @@ function stopTimer() {
 
 //masīvi spēles darbībai
 const laukumi = ['L01','L02','L03','L04','L05','L06','L07','L08','L09','L10','L11','L12']
-const laukumiSaturs = ['👽','🤖','😇','👽','🤕','🤠','🤕','🥶','🤠','🤖','🥶','😇']
+const laukumiSaturs = ['💩','👾','😇','💩','😺','🤠','😺','🥶','🤠','👾','🥶','😇']
 let atvertieLaukumi = []
 let pedejieDivi = []
 
